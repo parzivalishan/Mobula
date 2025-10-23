@@ -1,0 +1,2 @@
+Enter RPC endpoint: https://bsc-dataseed.binance.org/
+Enter SGR20 contract address: 0x43C3EBaFdF32909aC60E80ee34aE46637E743d65
