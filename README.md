@@ -218,7 +218,7 @@ This project focuses on providing the following historical market indicators wit
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository_url>
+    git clone <[repository_url](https://github.com/parzivalishan/Mobula)>
     cd final
     ```
 2.  **Install Dependencies**:
